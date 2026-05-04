@@ -5,7 +5,7 @@ import os
 from datetime import datetime
 
 # ========== GitHub репозиторий ==========
-GITHUB_URL = "https://github.com/ваш_логин/weather-diary"  # Замените на свой
+GITHUB_URL = "https://github.com/putinVor/weather-diary"  # Замените на свой
 
 class WeatherDiary:
     """
